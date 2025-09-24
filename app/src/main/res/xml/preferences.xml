@@ -1,0 +1,6 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreferenceCompat
+        android:key="tema_oscuro"
+        android:title="Tema oscuro"
+        android:summary="Activar/desactivar el modo oscuro" />
+</PreferenceScreen>
